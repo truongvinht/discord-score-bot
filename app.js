@@ -2,3 +2,4 @@
 // main class
 // ================
 
+console.log('Hello');

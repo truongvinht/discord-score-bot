@@ -1,0 +1,14 @@
+{
+  "token" : "",
+  "prefix":"!",
+  "lang": "en",
+  "roles":["Leader"],
+  "storage": {
+      "host":"",
+      "login":"",
+      "pwd":"",
+      "db":""
+  },
+  "author":"C4CW",
+  "version":"1.0.0"
+}

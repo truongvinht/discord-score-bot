@@ -7,3 +7,6 @@ package-lock.json
 
 // visual studio
 .vscode
+
+//ignore custom configuration
+config/settings.json
