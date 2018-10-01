@@ -1,0 +1,6 @@
+// ignore macOS files
+.DS_Store
+
+// ignore node files
+node_modules
+package-lock.json
