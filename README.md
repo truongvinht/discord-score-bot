@@ -1,2 +1,2 @@
 # discord-score-bot
-Discord Bot for for micromanaging guild members
+Discord Bot for micromanaging guild members
