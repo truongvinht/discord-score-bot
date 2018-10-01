@@ -4,3 +4,6 @@
 // ignore node files
 node_modules
 package-lock.json
+
+// visual studio
+.vscode
