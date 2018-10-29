@@ -1,0 +1,18 @@
+// NAME.js
+// NAME model
+// Generated template
+// ================
+
+class NAME {
+    constructor(PARAM) {
+        INIT
+    }
+    toString() {
+        return `[ARG]`;
+    }
+};
+
+// export
+module.exports = {
+    NAME:NAME
+};
