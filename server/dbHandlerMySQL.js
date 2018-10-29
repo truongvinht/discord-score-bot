@@ -51,6 +51,7 @@ const DbHandler = (function () {
             return;
           },
           executeQuery: function(query, callback) {
+            connection = null;
             this.connect();
             connection.query(query, function (error, results, fields) {
               if (error) throw error;
@@ -61,6 +62,7 @@ const DbHandler = (function () {
             });
           },
           executeParamQuery: function(query, param, callback) {
+            connection = null;
             this.connect();
 
             connection.query(query, param, function (error, results, fields) {
